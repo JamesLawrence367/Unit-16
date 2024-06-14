@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+
+.header{
+    background-color: dimgrey;
+    color: white;
+    border: 5px solid green;
+}
+.container{
+    background-color: white;
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px;
+}
